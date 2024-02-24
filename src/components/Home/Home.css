@@ -1,0 +1,14 @@
+.home-bg{
+    background-image: url('../../assets/wallpaper.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.1;
+    /* background: local right; */
+    
+}
+
+.positions{
+    position: absolute;
+    bottom: 10px;
+    left: 400px;
+}

@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "picture": "https://i.ibb.co/6DpPnbc/Health.png",
+    "title": "Clean water for children",
+    "category": "Health",
+    "categoryBg": "skyblue",
+    "cardBg": "paleturquoise",
+    "textColor": "dodgerblue",
+    "description": "Access to clean water, sanitation and hygiene gives children and their families a chance to flourish. We believe every child deserves – and has the right – to use safe water and live in a clean environment. Clean water, a clean environment, and good hygiene practices are essential for children and families to thrive.",
+    "price": "$19.99"
+  },
+  {
+    "id": 2,
+    "picture": "https://i.ibb.co/FJdGMwy/Education.png",
+    "title": "Good education",
+    "category": "Education",
+    "categoryBg": "fuchsia",
+    "cardBg": "pink",
+    "textColor": "hotpink",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": "$29.99"
+  },
+  {
+    "id": 3,
+    "picture": "https://i.ibb.co/pfBbCP5/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "categoryBg": "lime",
+    "cardBg": "palegreen",
+    "textColor": "limegreen",
+    "description": "A used clothing drive is philanthropic activity that requests clothing donations from community members or a network of individuals for the benefit of a non profit group or group of vulnerable people. There are many benefits to organizing a used clothing drive. Used clothing drives divert waste from landfills by giving people an alternative disposal method for unwanted, ripped or stained items. Only 15% of textiles are recycled.Nearly 95% of textiles worn or torn can be recycled.A used clothing drive can be a fundraising effort for organizations or groups that lack funding such as, Schools, Religious organizations, clubs, Sports Teams and Associations, neighborhoods and, communities.Donated Items can be given for free to the needy.",
+    "price": "$39.99"
+  },
+  {
+    "id": 4,
+    "picture": "https://i.ibb.co/jZHG541/Food.png",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "categoryBg": "sandybrown",
+    "cardBg": "bisque",
+    "textColor": "lightsalmon",
+    "description": "The future of the world depends on good food.Its that simple.Good food keeps us healthy. It helps us reach our potential. It strengthens our communities, powers our economies, and protects our planet.But not everyone gets good food every day and the way we produce and market food is harming our environment. This has to change.Thats why the UN Secretary-General has called for the historic, first ever Food Systems Summit this year.We are bringing together everyone farmers, Indigenous Peoples, young people and citizens from across the globe to carve a path to a world where good food for all is a reality.",
+    "price": "$49.99"
+  },
+  {
+    "id": 5,
+    "picture": "https://i.ibb.co/jZHG541/Food.png",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "categoryBg": "sandybrown",
+    "cardBg": "bisque",
+    "textColor": "lightsalmon",
+    "description": "The future of the world depends on good food.Its that simple.Good food keeps us healthy. It helps us reach our potential. It strengthens our communities, powers our economies, and protects our planet.But not everyone gets good food every day and the way we produce and market food is harming our environment. This has to change.Thats why the UN Secretary-General has called for the historic, first ever Food Systems Summit this year.We are bringing together everyone farmers, Indigenous Peoples, young people and citizens from across the globe to carve a path to a world where good food for all is a reality.",
+    "price": "$49.99"
+  },
+  {
+    "id": 6,
+    "picture": "https://i.ibb.co/pfBbCP5/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "categoryBg": "lime",
+    "cardBg": "palegreen",
+    "textColor": "limegreen",
+    "description": "A used clothing drive is philanthropic activity that requests clothing donations from community members or a network of individuals for the benefit of a non profit group or group of vulnerable people. There are many benefits to organizing a used clothing drive. Used clothing drives divert waste from landfills by giving people an alternative disposal method for unwanted, ripped or stained items. Only 15% of textiles are recycled.Nearly 95% of textiles worn or torn can be recycled.A used clothing drive can be a fundraising effort for organizations or groups that lack funding such as, Schools, Religious organizations, clubs, Sports Teams and Associations, neighborhoods and, communities.Donated Items can be given for free to the needy.",
+    "price": "$39.99"
+  },
+  {
+    "id": 7,
+    "picture": "https://i.ibb.co/FJdGMwy/Education.png",
+    "title": "Good education",
+    "category": "Education",
+    "categoryBg": "fuchsia",
+    "cardBg": "pink",
+    "textColor": "hotpink",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": "$29.99"
+  },
+  {
+    "id": 8,
+    "picture": "https://i.ibb.co/6DpPnbc/Health.png",
+    "title": "Clean water for children",
+    "category": "Health",
+    "categoryBg": "skyblue",
+    "cardBg": "paleturquoise",
+    "textColor": "dodgerblue",
+    "description": "Access to clean water, sanitation and hygiene gives children and their families a chance to flourish. We believe every child deserves – and has the right – to use safe water and live in a clean environment. Clean water, a clean environment, and good hygiene practices are essential for children and families to thrive.",
+    "price": "$19.99"
+  },
+  {
+    "id": 9,
+    "picture": "https://i.ibb.co/6DpPnbc/Health.png",
+    "title": "Clean water for children",
+    "category": "Health",
+    "categoryBg": "skyblue",
+    "cardBg": "paleturquoise",
+    "textColor": "dodgerblue",
+    "description": "Access to clean water, sanitation and hygiene gives children and their families a chance to flourish. We believe every child deserves – and has the right – to use safe water and live in a clean environment. Clean water, a clean environment, and good hygiene practices are essential for children and families to thrive.",
+    "price": "$19.99"
+  },
+  {
+    "id": 10,
+    "picture": "https://i.ibb.co/FJdGMwy/Education.png",
+    "title": "Good education",
+    "category": "Education",
+    "categoryBg": "fuchsia",
+    "cardBg": "pink",
+    "textColor": "hotpink",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": "$29.99"
+  },
+  {
+    "id": 11,
+    "picture": "https://i.ibb.co/pfBbCP5/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "categoryBg": "lime",
+    "cardBg": "palegreen",
+    "textColor": "limegreen",
+    "description": "A used clothing drive is philanthropic activity that requests clothing donations from community members or a network of individuals for the benefit of a non profit group or group of vulnerable people. There are many benefits to organizing a used clothing drive. Used clothing drives divert waste from landfills by giving people an alternative disposal method for unwanted, ripped or stained items. Only 15% of textiles are recycled.Nearly 95% of textiles worn or torn can be recycled.A used clothing drive can be a fundraising effort for organizations or groups that lack funding such as, Schools, Religious organizations, clubs, Sports Teams and Associations, neighborhoods and, communities.Donated Items can be given for free to the needy.",
+    "price": "$39.99"
+  },
+  {
+    "id": 12,
+    "picture": "https://i.ibb.co/jZHG541/Food.png",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "categoryBg": "sandybrown",
+    "cardBg": "bisque",
+    "textColor": "lightsalmon",
+    "description": "The future of the world depends on good food.Its that simple.Good food keeps us healthy. It helps us reach our potential. It strengthens our communities, powers our economies, and protects our planet.But not everyone gets good food every day and the way we produce and market food is harming our environment. This has to change.Thats why the UN Secretary-General has called for the historic, first ever Food Systems Summit this year.We are bringing together everyone farmers, Indigenous Peoples, young people and citizens from across the globe to carve a path to a world where good food for all is a reality.",
+    "price": "$49.99"
+  }
+]
